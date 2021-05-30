@@ -1,0 +1,12 @@
+{
+  "name": "actobot",
+  "version": "1.0.0",
+  "description": "Дискорд бот создающий Activity",
+  "main": "index.js",
+  "keywords": ["actobot"],
+  "author": "vk.com/TuSesh",
+  "license": "GNU GPL v3",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
